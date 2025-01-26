@@ -1,0 +1,10 @@
+C:\Users\Пользователь\source\repos\Egorov86\cs\22.01\FibonacciGenerator\FibonacciGenerator\bin\Debug\FibonacciGenerator.exe.config
+C:\Users\Пользователь\source\repos\Egorov86\cs\22.01\FibonacciGenerator\FibonacciGenerator\bin\Debug\FibonacciGenerator.exe
+C:\Users\Пользователь\source\repos\Egorov86\cs\22.01\FibonacciGenerator\FibonacciGenerator\bin\Debug\FibonacciGenerator.pdb
+C:\Users\Пользователь\source\repos\Egorov86\cs\22.01\FibonacciGenerator\FibonacciGenerator\obj\Debug\FibonacciGenerator.csproj.AssemblyReference.cache
+C:\Users\Пользователь\source\repos\Egorov86\cs\22.01\FibonacciGenerator\FibonacciGenerator\obj\Debug\FibonacciGenerator.Form1.resources
+C:\Users\Пользователь\source\repos\Egorov86\cs\22.01\FibonacciGenerator\FibonacciGenerator\obj\Debug\FibonacciGenerator.Properties.Resources.resources
+C:\Users\Пользователь\source\repos\Egorov86\cs\22.01\FibonacciGenerator\FibonacciGenerator\obj\Debug\FibonacciGenerator.csproj.GenerateResource.cache
+C:\Users\Пользователь\source\repos\Egorov86\cs\22.01\FibonacciGenerator\FibonacciGenerator\obj\Debug\FibonacciGenerator.csproj.CoreCompileInputs.cache
+C:\Users\Пользователь\source\repos\Egorov86\cs\22.01\FibonacciGenerator\FibonacciGenerator\obj\Debug\FibonacciGenerator.exe
+C:\Users\Пользователь\source\repos\Egorov86\cs\22.01\FibonacciGenerator\FibonacciGenerator\obj\Debug\FibonacciGenerator.pdb
